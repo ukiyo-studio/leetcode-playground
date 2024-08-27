@@ -4,4 +4,6 @@ using LeetcodePlayground.Problems;
 
 Console.WriteLine("#### Welcome to my Leetcode Playground! ####");
 
-new Problem1480RunningSumOf1DArray().Solution();
+// new Problem1480RunningSumOf1DArray().Solution();
+
+new Problem1672RichestCustomerWealth().Solution();
